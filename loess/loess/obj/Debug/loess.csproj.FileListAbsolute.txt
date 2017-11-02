@@ -1,0 +1,9 @@
+D:\CSharpPractice\loess\loess\bin\Debug\loess.exe.config
+D:\CSharpPractice\loess\loess\obj\Debug\loess.csprojResolveAssemblyReference.cache
+D:\CSharpPractice\loess\loess\bin\Debug\loess.exe
+D:\CSharpPractice\loess\loess\bin\Debug\loess.pdb
+D:\CSharpPractice\loess\loess\obj\Debug\loess.exe
+D:\CSharpPractice\loess\loess\obj\Debug\loess.pdb
+D:\02. Programing\01. practice_CSharp\loess\loess\bin\Debug\loess.exe.config
+D:\02. Programing\01. practice_CSharp\loess\loess\obj\Debug\loess.exe
+D:\02. Programing\01. practice_CSharp\loess\loess\obj\Debug\loess.pdb

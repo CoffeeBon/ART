@@ -1,0 +1,24 @@
+C:\Users\JSW\Desktop\ARTapp\ARTapp\bin\Release\ARTapp.exe.config
+C:\Users\JSW\Desktop\ARTapp\ARTapp\bin\Release\ARTapp.exe
+C:\Users\JSW\Desktop\ARTapp\ARTapp\bin\Release\ARTapp.pdb
+C:\Users\JSW\Desktop\ARTapp\ARTapp\obj\Release\ARTapp.Form1.resources
+C:\Users\JSW\Desktop\ARTapp\ARTapp\obj\Release\ARTapp.Properties.Resources.resources
+C:\Users\JSW\Desktop\ARTapp\ARTapp\obj\Release\ARTapp.csproj.GenerateResource.Cache
+C:\Users\JSW\Desktop\ARTapp\ARTapp\obj\Release\ARTapp.exe
+C:\Users\JSW\Desktop\ARTapp\ARTapp\obj\Release\ARTapp.pdb
+E:\ARTapp 학교 수정\ARTapp\bin\Release\ARTapp.exe.config
+E:\ARTapp 학교 수정\ARTapp\bin\Release\ARTapp.exe
+E:\ARTapp 학교 수정\ARTapp\bin\Release\ARTapp.pdb
+E:\ARTapp 학교 수정\ARTapp\obj\Release\ARTapp.Form1.resources
+E:\ARTapp 학교 수정\ARTapp\obj\Release\ARTapp.Properties.Resources.resources
+E:\ARTapp 학교 수정\ARTapp\obj\Release\ARTapp.csproj.GenerateResource.Cache
+E:\ARTapp 학교 수정\ARTapp\obj\Release\ARTapp.exe
+E:\ARTapp 학교 수정\ARTapp\obj\Release\ARTapp.pdb
+I:\ARTapp(prototype)\ARTapp\bin\Release\ARTapp.exe.config
+I:\ARTapp(prototype)\ARTapp\bin\Release\ARTapp.exe
+I:\ARTapp(prototype)\ARTapp\bin\Release\ARTapp.pdb
+I:\ARTapp(prototype)\ARTapp\obj\Release\ARTapp.Form1.resources
+I:\ARTapp(prototype)\ARTapp\obj\Release\ARTapp.Properties.Resources.resources
+I:\ARTapp(prototype)\ARTapp\obj\Release\ARTapp.csproj.GenerateResource.Cache
+I:\ARTapp(prototype)\ARTapp\obj\Release\ARTapp.exe
+I:\ARTapp(prototype)\ARTapp\obj\Release\ARTapp.pdb
